@@ -1,0 +1,856 @@
+{
+  "streets": [
+    {
+      "name": "RrethiMadh_Lakrishte_BillClinton",
+      "green_time": 93
+    },
+    {
+      "name": "BillClinton_Lakrishte_RrethiMadh",
+      "green_time": 93
+    },
+    {
+      "name": "Lakrishte_BillClinton_Lakrishte",
+      "green_time": 24
+    },
+    {
+      "name": "Lakrishte_BillClinton_Santea",
+      "green_time": 62
+    },
+    {
+      "name": "Lakrishte_BillClinton_Tuneli",
+      "green_time": 62
+    },
+    {
+      "name": "Lakrishte_BillClinton_ShtjefenGjeqovi",
+      "green_time": 24
+    },
+    {
+      "name": "Santea_BillClinton_Santea",
+      "green_time": 24
+    },
+    {
+      "name": "Santea_BillClinton_Lakrishte",
+      "green_time": 62
+    },
+    {
+      "name": "Santea_BillClinton_ShtjefenGjeqovi",
+      "green_time": 62
+    },
+    {
+      "name": "Santea_BillClinton_Tuneli",
+      "green_time": 24
+    },
+    {
+      "name": "Tuneli_BillClinton_ShtjefenGjeqovi",
+      "green_time": 27
+    },
+    {
+      "name": "Tuneli_BillClinton_Lakrishte",
+      "green_time": 27
+    },
+    {
+      "name": "Tuneli_BillClinton_Santea",
+      "green_time": 27
+    },
+    {
+      "name": "ShtjefenGjeqovi_BillClinton_Tuneli",
+      "green_time": 27
+    },
+    {
+      "name": "ShtjefenGjeqovi_BillClinton_Santea",
+      "green_time": 27
+    },
+    {
+      "name": "ShtjefenGjeqovi_BillClinton_Lakrishte",
+      "green_time": 27
+    },
+    {
+      "name": "BillClinton_Santea_Katedralja",
+      "green_time": 50
+    },
+    {
+      "name": "BillClinton_Santea_RobertDoll",
+      "green_time": 28
+    },
+    {
+      "name": "BillClinton_Santea_BillClinton",
+      "green_time": 28
+    },
+    {
+      "name": "Katedralja_Santea_BillClinton",
+      "green_time": 50
+    },
+    {
+      "name": "Katedralja_Santea_RobertDoll",
+      "green_time": 50
+    },
+    {
+      "name": "RobertDoll_Santea_BillClinton",
+      "green_time": 39
+    },
+    {
+      "name": "RobertDoll_Santea_Katedralja",
+      "green_time": 39
+    },
+    {
+      "name": "Santea_Katedralja_Santea",
+      "green_time": 18
+    },
+    {
+      "name": "Santea_Katedralja_Menza",
+      "green_time": 45
+    },
+    {
+      "name": "Santea_Katedralja_PTK",
+      "green_time": 45
+    },
+    {
+      "name": "PTK_Katedralja_PTK",
+      "green_time": 24
+    },
+    {
+      "name": "PTK_Katedralja_Santea",
+      "green_time": 24
+    },
+    {
+      "name": "PTK_Katedralja_Menza",
+      "green_time": 24
+    },
+    {
+      "name": "Menza_Katedralja_Santea",
+      "green_time": 45
+    },
+    {
+      "name": "Menza_Katedralja_PTK",
+      "green_time": 18
+    },
+    {
+      "name": "Menza_Katedralja_Menza",
+      "green_time": 18
+    },
+    {
+      "name": "Menza_MAShTI_Menza",
+      "green_time": 46
+    },
+    {
+      "name": "Menza_MAShTI_FakultetiEkonomik",
+      "green_time": 46
+    },
+    {
+      "name": "Menza_MAShTI_Parlamenti",
+      "green_time": 46
+    },
+    {
+      "name": "Menza_MAShTI_KarlGega",
+      "green_time": 46
+    },
+    {
+      "name": "KarlGega_MAShTI_Menza",
+      "green_time": 22
+    },
+    {
+      "name": "KarlGega_MAShTI_FakultetiEkonomik",
+      "green_time": 22
+    },
+    {
+      "name": "KarlGega_MAShTI_Parlamenti",
+      "green_time": 22
+    },
+    {
+      "name": "Parlamenti_MAShTI_Parlamenti",
+      "green_time": 23
+    },
+    {
+      "name": "Parlamenti_MAShTI_KarlGega",
+      "green_time": 23
+    },
+    {
+      "name": "Parlamenti_MAShTI_Menza",
+      "green_time": 23
+    },
+    {
+      "name": "Parlamenti_MAShTI_FakultetiEkonomik",
+      "green_time": 46
+    },
+    {
+      "name": "FakultetiEkonomik_MAShTI_Parlamenti",
+      "green_time": 22
+    },
+    {
+      "name": "FakultetiEkonomik_MAShTI_KarlGega",
+      "green_time": 22
+    },
+    {
+      "name": "FakultetiEkonomik_MAShTI_Menza",
+      "green_time": 22
+    },
+    {
+      "name": "MAShTI_Parlamenti_XhamiaLlapitTregu",
+      "green_time": 54
+    },
+    {
+      "name": "MAShTI_Parlamenti_IbrahimLutfiu",
+      "green_time": 54
+    },
+    {
+      "name": "XhamiaLlapitTregu_Parlamenti_MAShTI",
+      "green_time": 54
+    },
+    {
+      "name": "XhamiaLlapitTregu_Parlamenti_IbrahimLutfiu",
+      "green_time": 25
+    },
+    {
+      "name": "IbrahimLutfiu_Parlamenti_MAShTI",
+      "green_time": 20
+    },
+    {
+      "name": "IbrahimLutfiu_Parlamenti_XhamiaLlapitTregu",
+      "green_time": 20
+    },
+    {
+      "name": "Parlamenti_XhamiaLlapitTregu_XhamiaLlapit",
+      "green_time": 43
+    },
+    {
+      "name": "Parlamenti_XhamiaLlapitTregu_MetoBajraktari",
+      "green_time": 43
+    },
+    {
+      "name": "Parlamenti_XhamiaLlapitTregu_LidhjaPrizrenit",
+      "green_time": 43
+    },
+    {
+      "name": "MetoBajraktari_XhamiaLlapitTregu_XhamiaLlapit",
+      "green_time": 29
+    },
+    {
+      "name": "MetoBajraktari_XhamiaLlapitTregu_LidhjaPrizrenit",
+      "green_time": 29
+    },
+    {
+      "name": "MetoBajraktari_XhamiaLlapitTregu_Parlamenti",
+      "green_time": 29
+    },
+    {
+      "name": "LidhjaPrizrenit_XhamiaLlapitTregu_Parlamenti",
+      "green_time": 29
+    },
+    {
+      "name": "LidhjaPrizrenit_XhamiaLlapitTregu_MetoBajraktari",
+      "green_time": 29
+    },
+    {
+      "name": "LidhjaPrizrenit_XhamiaLlapitTregu_XhamiaLlapit",
+      "green_time": 29
+    },
+    {
+      "name": "XhamiaLlapit_XhamiaLlapitTregu_LidhjaPrizrenit",
+      "green_time": 43
+    },
+    {
+      "name": "XhamiaLlapit_XhamiaLlapitTregu_Parlamenti",
+      "green_time": 43
+    },
+    {
+      "name": "XhamiaLlapit_XhamiaLlapitTregu_MetoBajraktari",
+      "green_time": 43
+    },
+    {
+      "name": "XhamiaLlapitTregu_XhamiaLlapit_LidhjaLezhes",
+      "green_time": 62
+    },
+    {
+      "name": "XhamiaLlapitTregu_XhamiaLlapit_VellezeritFazliu",
+      "green_time": 62
+    },
+    {
+      "name": "XhamiaLlapitTregu_XhamiaLlapit_Tjegullorja",
+      "green_time": 62
+    },
+    {
+      "name": "XhamiaLlapitTregu_XhamiaLlapit_Makovc",
+      "green_time": 62
+    },
+    {
+      "name": "LidhjaLezhes_XhamiaLlapit_Tjegullorja",
+      "green_time": 44
+    },
+    {
+      "name": "LidhjaLezhes_XhamiaLlapit_VellezeritFazliu",
+      "green_time": 44
+    },
+    {
+      "name": "LidhjaLezhes_XhamiaLlapit_Makovc",
+      "green_time": 44
+    },
+    {
+      "name": "LidhjaLezhes_XhamiaLlapit_XhamiaLlapitTregu",
+      "green_time": 44
+    },
+    {
+      "name": "Tjegullorja_XhamiaLlapit_VellezeritFazliu",
+      "green_time": 44
+    },
+    {
+      "name": "Tjegullorja_XhamiaLlapit_Makovc",
+      "green_time": 44
+    },
+    {
+      "name": "Tjegullorja_XhamiaLlapit_XhamiaLlapitTregu",
+      "green_time": 44
+    },
+    {
+      "name": "Tjegullorja_XhamiaLlapit_LidhjaLezhes",
+      "green_time": 44
+    },
+    {
+      "name": "VellezeritFazliu_XhamiaLlapit_Tjegullorja",
+      "green_time": 62
+    },
+    {
+      "name": "VellezeritFazliu_XhamiaLlapit_LidhjaLezhes",
+      "green_time": 62
+    },
+    {
+      "name": "VellezeritFazliu_XhamiaLlapit_XhamiaLlapitTregu",
+      "green_time": 62
+    },
+    {
+      "name": "VellezeritFazliu_XhamiaLlapit_Makovc",
+      "green_time": 62
+    },
+    {
+      "name": "Makovc_XhamiaLlapit_XhamiaLlapitTregu",
+      "green_time": 44
+    },
+    {
+      "name": "Makovc_XhamiaLlapit_LidhjaLezhes",
+      "green_time": 44
+    },
+    {
+      "name": "Makovc_XhamiaLlapit_Tjegullorja",
+      "green_time": 44
+    },
+    {
+      "name": "Makovc_XhamiaLlapit_VellezeritFazliu",
+      "green_time": 44
+    },
+    {
+      "name": "XhamiaLlapit_Tjegullorja_Vushtrria",
+      "green_time": 44
+    },
+    {
+      "name": "XhamiaLlapit_Tjegullorja_Zagrebi",
+      "green_time": 44
+    },
+    {
+      "name": "XhamiaLlapit_Tjegullorja_Plava",
+      "green_time": 44
+    },
+    {
+      "name": "Vushtrria_Tjegullorja_Zagrebi",
+      "green_time": 23
+    },
+    {
+      "name": "Vushtrria_Tjegullorja_Plava",
+      "green_time": 23
+    },
+    {
+      "name": "Vushtrria_Tjegullorja_XhamiaLlapit",
+      "green_time": 23
+    },
+    {
+      "name": "Zagrebi_Tjegullorja_Plava",
+      "green_time": 44
+    },
+    {
+      "name": "Zagrebi_Tjegullorja_XhamiaLlapit",
+      "green_time": 44
+    },
+    {
+      "name": "Zagrebi_Tjegullorja_Vushtrria",
+      "green_time": 44
+    },
+    {
+      "name": "Plava_Tjegullorja_XhamiaLlapit",
+      "green_time": 23
+    },
+    {
+      "name": "Plava_Tjegullorja_Vushtrria",
+      "green_time": 23
+    },
+    {
+      "name": "Plava_Tjegullorja_Zagrebi",
+      "green_time": 23
+    },
+    {
+      "name": "KolegjiRiinvest_Lulishtja_UCK",
+      "green_time": 27
+    },
+    {
+      "name": "KolegjiRiinvest_Lulishtja_FehmiAgani",
+      "green_time": 27
+    },
+    {
+      "name": "KolegjiRiinvest_Lulishtja_Tirana",
+      "green_time": 27
+    },
+    {
+      "name": "UCK_Lulishtja_FehmiAgani",
+      "green_time": 24
+    },
+    {
+      "name": "UCK_Lulishtja_Tirana",
+      "green_time": 24
+    },
+    {
+      "name": "UCK_Lulishtja_KolegjiRiinvest",
+      "green_time": 24
+    },
+    {
+      "name": "FehmiAgani_Lulishtja_Tirana",
+      "green_time": 23
+    },
+    {
+      "name": "FehmiAgani_Lulishtja_KolegjiRiinvest",
+      "green_time": 23
+    },
+    {
+      "name": "FehmiAgani_Lulishtja_UCK",
+      "green_time": 23
+    },
+    {
+      "name": "Tirana_Lulishtja_KolegjiRiinvest",
+      "green_time": 14
+    },
+    {
+      "name": "Tirana_Lulishtja_UCK",
+      "green_time": 24
+    },
+    {
+      "name": "Tirana_Lulishtja_FehmiAgani",
+      "green_time": 24
+    },
+    {
+      "name": "Garibaldi_BQK_Garibaldi",
+      "green_time": 22
+    },
+    {
+      "name": "Garibaldi_BQK_LuanHaradinaj",
+      "green_time": 22
+    },
+    {
+      "name": "Garibaldi_BQK_Grandi",
+      "green_time": 22
+    },
+    {
+      "name": "Garibaldi_BQK_UkshinHoti",
+      "green_time": 22
+    },
+    {
+      "name": "UkshinHoti_BQK_UkshinHoti",
+      "green_time": 25
+    },
+    {
+      "name": "UkshinHoti_BQK_Garibaldi",
+      "green_time": 25
+    },
+    {
+      "name": "UkshinHoti_BQK_LuanHaradinaj",
+      "green_time": 25
+    },
+    {
+      "name": "Grandi_BQK_Grandi",
+      "green_time": 22
+    },
+    {
+      "name": "Grandi_BQK_UkshinHoti",
+      "green_time": 22
+    },
+    {
+      "name": "Grandi_BQK_Garibaldi",
+      "green_time": 22
+    },
+    {
+      "name": "LuanHaradinaj_BQK_LuanHaradinaj",
+      "green_time": 43
+    },
+    {
+      "name": "LuanHaradinaj_BQK_Grandi",
+      "green_time": 43
+    },
+    {
+      "name": "LuanHaradinaj_BQK_UkshinHoti",
+      "green_time": 43
+    },
+    {
+      "name": "LuanHaradinaj_BQK_Garibaldi",
+      "green_time": 43
+    },
+    {
+      "name": "AhmetKrasniqi_KomunaRe_FeridCurri",
+      "green_time": 64
+    },
+    {
+      "name": "AhmetKrasniqi_KomunaRe_HotelAdria",
+      "green_time": 64
+    },
+    {
+      "name": "AhmetKrasniqi_KomunaRe_Cacttus",
+      "green_time": 64
+    },
+    {
+      "name": "Cacttus_KomunaRe_AhmetKrasniqi",
+      "green_time": 19
+    },
+    {
+      "name": "Cacttus_KomunaRe_FeridCurri",
+      "green_time": 19
+    },
+    {
+      "name": "Cacttus_KomunaRe_HotelAdria",
+      "green_time": 19
+    },
+    {
+      "name": "HotelAdria_KomunaRe_Cacttus",
+      "green_time": 64
+    },
+    {
+      "name": "HotelAdria_KomunaRe_AhmetKrasniqi",
+      "green_time": 64
+    },
+    {
+      "name": "HotelAdria_KomunaRe_FeridCurri",
+      "green_time": 64
+    },
+    {
+      "name": "FeridCurri_KomunaRe_HotelAdria",
+      "green_time": 19
+    },
+    {
+      "name": "FeridCurri_KomunaRe_Cacttus",
+      "green_time": 19
+    },
+    {
+      "name": "FeridCurri_KomunaRe_AhmetKrasniqi",
+      "green_time": 19
+    },
+    {
+      "name": "IsmetKrasniqi_Vranjefc_AzizZhilivoda",
+      "green_time": 62
+    },
+    {
+      "name": "IsmetKrasniqi_Vranjefc_Bardhosh",
+      "green_time": 62
+    },
+    {
+      "name": "AzizZhilivoda_Vranjefc_Bardhosh",
+      "green_time": 22
+    },
+    {
+      "name": "AzizZhilivoda_Vranjefc_IsmetKrasniqi",
+      "green_time": 22
+    },
+    {
+      "name": "Bardhosh_Vranjefc_IsmetKrasniqi",
+      "green_time": 62
+    },
+    {
+      "name": "Bardhosh_Vranjefc_AzizZhilivoda",
+      "green_time": 62
+    },
+    {
+      "name": "Teknik_Qerimi_Teknik",
+      "green_time": 16
+    },
+    {
+      "name": "Teknik_Qerimi_Menza",
+      "green_time": 16
+    },
+    {
+      "name": "Teknik_Qerimi_HajrullahAbdullahu",
+      "green_time": 16
+    },
+    {
+      "name": "Teknik_Qerimi_EnverMaloku",
+      "green_time": 16
+    },
+    {
+      "name": "EnverMaloku_Qerimi_EnverMaloku",
+      "green_time": 35
+    },
+    {
+      "name": "EnverMaloku_Qerimi_Teknik",
+      "green_time": 35
+    },
+    {
+      "name": "EnverMaloku_Qerimi_Menza",
+      "green_time": 35
+    },
+    {
+      "name": "EnverMaloku_Qerimi_HajrullahAbdullahu",
+      "green_time": 35
+    },
+    {
+      "name": "Menza_Qerimi_Menza",
+      "green_time": 23
+    },
+    {
+      "name": "Menza_Qerimi_Teknik",
+      "green_time": 23
+    },
+    {
+      "name": "Menza_Qerimi_EnverMaloku",
+      "green_time": 23
+    },
+    {
+      "name": "Menza_Qerimi_HajrullahAbdullahu",
+      "green_time": 23
+    },
+    {
+      "name": "Qerimi_Teknik_Qerimi",
+      "green_time": 16
+    },
+    {
+      "name": "Qerimi_Teknik_Menza",
+      "green_time": 16
+    },
+    {
+      "name": "Qerimi_Teknik_RrugaB",
+      "green_time": 16
+    },
+    {
+      "name": "Qerimi_Teknik_FehmiLladrovci",
+      "green_time": 16
+    },
+    {
+      "name": "RrugaB_Teknik_FehmiLladrovci",
+      "green_time": 20
+    },
+    {
+      "name": "RrugaB_Teknik_RrugaB",
+      "green_time": 20
+    },
+    {
+      "name": "RrugaB_Teknik_Menza",
+      "green_time": 20
+    },
+    {
+      "name": "RrugaB_Teknik_Qerimi",
+      "green_time": 20
+    },
+    {
+      "name": "Menza_Teknik_Menza",
+      "green_time": 27
+    },
+    {
+      "name": "Menza_Teknik_FehmiLladrovci",
+      "green_time": 27
+    },
+    {
+      "name": "Menza_Teknik_RrugaB",
+      "green_time": 27
+    },
+    {
+      "name": "Menza_Teknik_Qerimi",
+      "green_time": 27
+    },
+    {
+      "name": "FehmiLladrovci_Teknik_FehmiLladrovci",
+      "green_time": 30
+    },
+    {
+      "name": "FehmiLladrovci_Teknik_RrugaB",
+      "green_time": 30
+    },
+    {
+      "name": "FehmiLladrovci_Teknik_Menza",
+      "green_time": 30
+    },
+    {
+      "name": "FehmiLladrovci_Teknik_Qerimi",
+      "green_time": 30
+    },
+    {
+      "name": "Teknik_RrugaB_Teknik",
+      "green_time": 32
+    },
+    {
+      "name": "Teknik_RrugaB_MaxiMarket",
+      "green_time": 32
+    },
+    {
+      "name": "Teknik_RrugaB_BibajSport",
+      "green_time": 32
+    },
+    {
+      "name": "MaxiMarket_RrugaB_Teknik",
+      "green_time": 51
+    },
+    {
+      "name": "MaxiMarket_RrugaB_BibajSport",
+      "green_time": 51
+    },
+    {
+      "name": "BibajSport_RrugaB_Teknik",
+      "green_time": 51
+    },
+    {
+      "name": "BibajSport_RrugaB_MaxiMarket",
+      "green_time": 51
+    },
+    {
+      "name": "MuharremFejza_Eulexi_ArbenorEAstritDehari",
+      "green_time": 40
+    },
+    {
+      "name": "MuharremFejza_Eulexi_MuharremFejza",
+      "green_time": 18
+    },
+    {
+      "name": "MuharremFejza_Eulexi_ErnestKoliqi",
+      "green_time": 18
+    },
+    {
+      "name": "ArbenorEAstritDehari_Eulexi_ArbenorEAstritDehari",
+      "green_time": 40
+    },
+    {
+      "name": "ArbenorEAstritDehari_Eulexi_MuharremFehza",
+      "green_time": 40
+    },
+    {
+      "name": "ArbenorEAstritDehari_Eulexi_ErnestKoliqi",
+      "green_time": 40
+    },
+    {
+      "name": "ErnestKoliqi_Eulexi_ArbenorEAstritDehari",
+      "green_time": 24
+    },
+    {
+      "name": "ErnestKoliqi_Eulexi_MuharremFejza",
+      "green_time": 24
+    },
+    {
+      "name": "Katedralja_PTK_Katedralja",
+      "green_time": 41
+    },
+    {
+      "name": "Katedralja_PTK_ImzotNikeprela",
+      "green_time": 41
+    },
+    {
+      "name": "Katedralja_PTK_28Nentori",
+      "green_time": 41
+    },
+    {
+      "name": "Katedralja_PTK_BulevardiDK",
+      "green_time": 41
+    },
+    {
+      "name": "ImzotNikeprela_PTK_Katedralja",
+      "green_time": 25
+    },
+    {
+      "name": "ImzotNikeprela_PTK_28Nentori",
+      "green_time": 25
+    },
+    {
+      "name": "ImzotNikeprela_PTK_BulevardiDK",
+      "green_time": 25
+    },
+    {
+      "name": "28Nentori_PTK_Katedralja",
+      "green_time": 25
+    },
+    {
+      "name": "28Nentori_PTK_ImzotNikeprela",
+      "green_time": 25
+    },
+    {
+      "name": "28Nentori_PTK_BulevardiDK",
+      "green_time": 25
+    },
+    {
+      "name": "BulevardiDK_PTK_28Nentori",
+      "green_time": 32
+    },
+    {
+      "name": "BulevardiDK_PTK_ImzotNikeprela",
+      "green_time": 32
+    },
+    {
+      "name": "BulevardiDK_PTK_Katedralja",
+      "green_time": 32
+    },
+    {
+      "name": "BulevardiDK_PTK_BulevardiDK",
+      "green_time": 32
+    },
+    {
+      "name": "Katedralja_Menza_Katedralja",
+      "green_time": 38
+    },
+    {
+      "name": "Katedralja_Menza_MAShTI",
+      "green_time": 38
+    },
+    {
+      "name": "Katedralja_Menza_Qerimi",
+      "green_time": 38
+    },
+    {
+      "name": "Katedralja_Menza_Teknik",
+      "green_time": 38
+    },
+    {
+      "name": "MAShTI_Menza_MAShTI",
+      "green_time": 14
+    },
+    {
+      "name": "MAShTI_Menza_Qerimi",
+      "green_time": 14
+    },
+    {
+      "name": "MAShTI_Menza_Teknik",
+      "green_time": 27
+    },
+    {
+      "name": "MAShTI_Menza_Katedralja",
+      "green_time": 27
+    },
+    {
+      "name": "Qerimi_Menza_Qerimi",
+      "green_time": 34
+    },
+    {
+      "name": "Qerimi_Menza_MAShTI",
+      "green_time": 34
+    },
+    {
+      "name": "Qerimi_Menza_Katedralja",
+      "green_time": 34
+    },
+    {
+      "name": "Qerimi_Menza_Teknik",
+      "green_time": 34
+    },
+    {
+      "name": "Teknik_Menza_Teknik",
+      "green_time": 14
+    },
+    {
+      "name": "Teknik_Menza_Katedralja",
+      "green_time": 14
+    },
+    {
+      "name": "Teknik_Menza_MAShTI",
+      "green_time": 27
+    },
+    {
+      "name": "Teknik_Menza_Qerimi",
+      "green_time": 27
+    }
+  ]
+}

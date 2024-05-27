@@ -8,7 +8,7 @@ constraints = []
 constraint_id = 1
 
 # Mapping of intersection names to IDs
-intersection_id_map = {intersection['name']: intersection['id'] for intersection in data['intersections']}
+intersection_id_map = {intersection['name'].replace(" ", ""): intersection['id'] for intersection in data['intersections']}
 
 # Iterate over each constraint entry in the JSON data
 for constraint_data in data['constraints']:

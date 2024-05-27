@@ -1,0 +1,1919 @@
+{
+  "simulation": {
+    "duration": 1800,
+    "intersections": 60,
+    "streets": 254,
+    "cars": 35,
+    "bonus": 100,
+    "duration_to_pass_through_an_intersection": 1,
+    "yellow_phase": 4,
+    "limit_on_minimum_cycle_length": 30,
+    "limit_on_maximum_cycle_length": 60,
+    "limit_on_minimum_green_phase_duration": 10,
+    "limit_on_maximum_green_phase_duration": 20
+  },
+  "intersections": [
+    {
+      "id": 1,
+      "name": "Bill Clinton",
+      "lat": 42.654261,
+      "lng": 21.152657
+    },
+    {
+      "id": 1002,
+      "name": "Tuneli",
+      "lat": 42.653691,
+      "lng": 21.15296
+    },
+    {
+      "id": 1003,
+      "name": "Shtjefen Gjeqovi",
+      "lat": 42.654629,
+      "lng": 21.152283
+    },
+    {
+      "id": 2,
+      "name": "Santea",
+      "lat": 42.655118,
+      "lng": 21.155765
+    },
+    {
+      "id": 2001,
+      "name": "Robert Doll",
+      "lat": 42.655878,
+      "lng": 21.155342
+    },
+    {
+      "id": 3,
+      "name": "Katedralja",
+      "lat": 42.655576,
+      "lng": 21.159651
+    },
+    {
+      "id": 4,
+      "name": "Teknik",
+      "lat": 42.650273,
+      "lng": 21.16483
+    },
+    {
+      "id": 4001,
+      "name": "Fehmi Lladrovci",
+      "lat": 42.648902,
+      "lng": 21.163795
+    },
+    {
+      "id": 5,
+      "name": "Qerimi",
+      "lat": 42.654076,
+      "lng": 21.167687
+    },
+    {
+      "id": 5001,
+      "name": "Hajrullah Abdullahu",
+      "lat": 42.654638,
+      "lng": 21.168288
+    },
+    {
+      "id": 5002,
+      "name": "Enver Maloku",
+      "lat": 42.653367,
+      "lng": 21.168253
+    },
+    {
+      "id": 6,
+      "name": "Rruga B",
+      "lat": 42.649013,
+      "lng": 21.17265
+    },
+    {
+      "id": 6001,
+      "name": "Bibaj Sport",
+      "lat": 42.648009,
+      "lng": 21.171872
+    },
+    {
+      "id": 6002,
+      "name": "Maxi Market",
+      "lat": 42.650404,
+      "lng": 21.174087
+    },
+    {
+      "id": 7,
+      "name": "MAShTI",
+      "lat": 42.659137,
+      "lng": 21.164555
+    },
+    {
+      "id": 7001,
+      "name": "Karl Gega",
+      "lat": 42.65908,
+      "lng": 21.165188
+    },
+    {
+      "id": 7002,
+      "name": "Fakulteti Ekonomik",
+      "lat": 42.65938,
+      "lng": 21.163365
+    },
+    {
+      "id": 8,
+      "name": "Parlamenti",
+      "lat": 42.665671,
+      "lng": 21.165193
+    },
+    {
+      "id": 8001,
+      "name": "Ibrahim Lutfiu",
+      "lat": 42.665902,
+      "lng": 21.165943
+    },
+    {
+      "id": 9,
+      "name": "Xhamia Llapit Tregu",
+      "lat": 42.669042,
+      "lng": 21.163723
+    },
+    {
+      "id": 9001,
+      "name": "Lidhja Prizrenit",
+      "lat": 42.668669,
+      "lng": 21.16308
+    },
+    {
+      "id": 9002,
+      "name": "Meto Bajraktari",
+      "lat": 42.669293,
+      "lng": 21.16437
+    },
+    {
+      "id": 10,
+      "name": "Xhamia Llapit",
+      "lat": 42.671376,
+      "lng": 21.161779
+    },
+    {
+      "id": 10001,
+      "name": "Lidhja Lezhes",
+      "lat": 42.671112,
+      "lng": 21.161126
+    },
+    {
+      "id": 10002,
+      "name": "Makovc",
+      "lat": 42.671771,
+      "lng": 21.162769
+    },
+    {
+      "id": 10003,
+      "name": "Vellezerit Fazliu",
+      "lat": 42.672308,
+      "lng": 21.163443
+    },
+    {
+      "id": 11,
+      "name": "Vranjefc",
+      "lat": 42.688585,
+      "lng": 21.158899
+    },
+    {
+      "id": 11001,
+      "name": "Ismet Krasniqi",
+      "lat": 42.688048,
+      "lng": 21.158926
+    },
+    {
+      "id": 11002,
+      "name": "Bardhosh",
+      "lat": 42.689035,
+      "lng": 21.158963
+    },
+    {
+      "id": 11003,
+      "name": "Aziz Zhilivoda",
+      "lat": 42.688636,
+      "lng": 21.158465
+    },
+    {
+      "id": 12,
+      "name": "Tjegullorja",
+      "lat": 42.669213,
+      "lng": 21.158287
+    },
+    {
+      "id": 12001,
+      "name": "Zagrebi",
+      "lat": 42.668727,
+      "lng": 21.157932
+    },
+    {
+      "id": 12002,
+      "name": "Vushtrria",
+      "lat": 42.669046,
+      "lng": 21.15873
+    },
+    {
+      "id": 12004,
+      "name": "Plava",
+      "lat": 42.669441,
+      "lng": 21.157807
+    },
+    {
+      "id": 13,
+      "name": "PTK",
+      "lat": 42.651219,
+      "lng": 21.158474
+    },
+    {
+      "id": 13001,
+      "name": "28 Nentori",
+      "lat": 42.65066,
+      "lng": 21.157752
+    },
+    {
+      "id": 13002,
+      "name": "Bulevardi DK",
+      "lat": 42.650248,
+      "lng": 21.158273
+    },
+    {
+      "id": 13003,
+      "name": "Imzot Nikeprela",
+      "lat": 42.650986,
+      "lng": 21.158937
+    },
+    {
+      "id": 14,
+      "name": "Lulishtja",
+      "lat": 42.665266,
+      "lng": 21.156275
+    },
+    {
+      "id": 14001,
+      "name": "Fehmi Agani",
+      "lat": 42.664845,
+      "lng": 21.157338
+    },
+    {
+      "id": 14002,
+      "name": "UCK",
+      "lat": 42.665343,
+      "lng": 21.15749
+    },
+    {
+      "id": 14003,
+      "name": "Kolegji Riinvest",
+      "lat": 42.665757,
+      "lng": 21.156447
+    },
+    {
+      "id": 14004,
+      "name": "Tirana",
+      "lat": 42.6649,
+      "lng": 21.155519
+    },
+    {
+      "id": 15,
+      "name": "BQK",
+      "lat": 42.659776,
+      "lng": 21.157774
+    },
+    {
+      "id": 15001,
+      "name": "Garibaldi",
+      "lat": 42.659223,
+      "lng": 21.157038
+    },
+    {
+      "id": 15002,
+      "name": "Ukshin Hoti",
+      "lat": 42.659514,
+      "lng": 21.15933
+    },
+    {
+      "id": 15003,
+      "name": "Grandi",
+      "lat": 42.660504,
+      "lng": 21.158507
+    },
+    {
+      "id": 15004,
+      "name": "Luan Haradinaj",
+      "lat": 42.660227,
+      "lng": 21.156896
+    },
+    {
+      "id": 16,
+      "name": "Eulexi",
+      "lat": 42.646061,
+      "lng": 21.167466
+    },
+    {
+      "id": 16001,
+      "name": "Arbenor E AstritDehari",
+      "lat": 42.646773,
+      "lng": 21.165358
+    },
+    {
+      "id": 16002,
+      "name": "Ernest Koliqi",
+      "lat": 42.645255,
+      "lng": 21.167021
+    },
+    {
+      "id": 16003,
+      "name": "Muharrem Fejza",
+      "lat": 42.645724,
+      "lng": 21.168488
+    },
+    {
+      "id": 17,
+      "name": "Menza",
+      "lat": 42.654922,
+      "lng": 21.164106
+    },
+    {
+      "id": 18,
+      "name": "Komuna Re",
+      "lat": 42.657069,
+      "lng": 21.145009
+    },
+    {
+      "id": 18001,
+      "name": "Ahmet Krasniqi",
+      "lat": 42.656577,
+      "lng": 21.143886
+    },
+    {
+      "id": 18002,
+      "name": "Cacttus",
+      "lat": 42.656737,
+      "lng": 21.145785
+    },
+    {
+      "id": 18003,
+      "name": "Hotel Adria",
+      "lat": 42.657785,
+      "lng": 21.14584
+    },
+    {
+      "id": 18004,
+      "name": "Ferid Curri",
+      "lat": 42.657654,
+      "lng": 21.144082
+    },
+    {
+      "id": 19,
+      "name": "Lakrishte",
+      "lat": 42.653609,
+      "lng": 21.15033
+    },
+    {
+      "id": 20,
+      "name": "Tahir Zajmi",
+      "lat": 42.6509837,
+      "lng": 21.1412026
+    },
+    {
+      "id": 21,
+      "name": "Terminali Doganor",
+      "lat": 42.648423,
+      "lng": 21.131436
+    },
+    {
+      "id": 21001,
+      "name": "Deshmoret E Ponoshecit",
+      "lat": 42.647576,
+      "lng": 21.131857
+    },
+    {
+      "id": 22,
+      "name": "Tregu I Madh",
+      "lat": 442.647581,
+      "lng": 21.128228
+    },
+    {
+      "id": 22001,
+      "name": "Klan Kosova",
+      "lat": 42.646608,
+      "lng": 21.128346
+    },
+    {
+      "id": 23,
+      "name": "Elez Berisha",
+      "lat": 42.642754,
+      "lng": 21.110918
+    },
+    {
+      "id": 23001,
+      "name": "Interex",
+      "lat": 42.641906,
+      "lng": 21.111362
+    },
+    {
+      "id": 24,
+      "name": "Rruga E Uglarit",
+      "lat": 42.641476,
+      "lng": 21.106527
+    },
+    {
+      "id": 24001,
+      "name": "Kompleksi Linda 3",
+      "lat": 42.640601,
+      "lng": 21.107019
+    },
+    {
+      "id": 25,
+      "name": "Hajrullah Zymi",
+      "lat": 42.63994,
+      "lng": 21.101181
+    },
+    {
+      "id": 25001,
+      "name": "Dardania",
+      "lat": 42.640798,
+      "lng": 21.100728
+    },
+    {
+      "id": 25002,
+      "name": "Rrethi Rruga E Pejes",
+      "lat": 42.63768,
+      "lng": 21.093363
+    }
+  ],
+  "streets": [
+    {
+      "start": 1,
+      "end": 1002,
+      "name": "BillClinton_Tuneli",
+      "time": 60,
+      "exit_roads": []
+    },
+    {
+      "start": 1,
+      "end": 1003,
+      "name": "BillClinton_ShtjefenGjeqovi",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 2,
+      "end": 2001,
+      "name": "Santea_RobertDoll",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 5,
+      "end": 5001,
+      "name": "Qerimi_HajrullahAbdullahu",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 5,
+      "end": 5002,
+      "name": "Qerimi_EnverMaloku",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 13,
+      "end": 13003,
+      "name": "PTK_ImzotNikeprela",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 13,
+      "end": 13002,
+      "name": "PTK_BulevardiDK",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 13,
+      "end": 13001,
+      "name": "PTK_28Nentori",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 7,
+      "end": 7001,
+      "name": "MAShTI_KarlGega",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 7,
+      "end": 7002,
+      "name": "MAShTI_FakultetiEkonomik",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 8,
+      "end": 8001,
+      "name": "Parlamenti_IbrahimLutfiu",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 4,
+      "end": 4001,
+      "name": "Teknik_FehmiLladrovci",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 6,
+      "end": 6002,
+      "name": "RrugaB_MaxiMarket",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 6,
+      "end": 6001,
+      "name": "RrugaB_BibajSport",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 16,
+      "end": 16001,
+      "name": "Eulexi_ArbenorEAstritDehari",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 16,
+      "end": 16002,
+      "name": "Eulexi_ErnestKoliqi",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 16,
+      "end": 16003,
+      "name": "Eulexi_MuharremFejza",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 9,
+      "end": 9001,
+      "name": "XhamiaLlapitTregu_LidhjaPrizrenit",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 9,
+      "end": 9002,
+      "name": "XhamiaLlapitTregu_MetoBajraktari",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 10,
+      "end": 10002,
+      "name": "XhamiaLlapit_Makovc",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 10,
+      "end": 10003,
+      "name": "XhamiaLlapit_VellezeritFazliu",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 10,
+      "end": 10001,
+      "name": "XhamiaLlapit_LidhjaLezhes",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 11,
+      "end": 11001,
+      "name": "Vranjefc_IsmetKrasniqi",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 11,
+      "end": 11002,
+      "name": "Vranjefc_Bardhosh",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 11,
+      "end": 11002,
+      "name": "Vranjefc_AzizZhilivoda",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 12,
+      "end": 12001,
+      "name": "Tjegullorja_Zagrebi",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 12,
+      "end": 12002,
+      "name": "Tjegullorja_Vushtrria",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 12,
+      "end": 12004,
+      "name": "Tjegullorja_Plava",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 14,
+      "end": 14001,
+      "name": "Lulishtja_FehmiAgani",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 14,
+      "end": 14002,
+      "name": "Lulishtja_UCK",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 14,
+      "end": 14003,
+      "name": "Lulishtja_KolegjiRiinvest",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 14,
+      "end": 14004,
+      "name": "Lulishtja_Tirana",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 15,
+      "end": 15001,
+      "name": "BQK_Garibaldi",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 15,
+      "end": 15002,
+      "name": "BQK_UkshinHoti",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 15,
+      "end": 15003,
+      "name": "BQK_Grandi",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 15,
+      "end": 15004,
+      "name": "BQK_LuanHaradinaj",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 18,
+      "end": 18001,
+      "name": "KomunaRe_AhmetKrasniqi",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 18,
+      "end": 18002,
+      "name": "KomunaRe_Cacttus",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 18,
+      "end": 18003,
+      "name": "KomunaRe_HotelAdria",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 18,
+      "end": 18004,
+      "name": "KomunaRe_FeridCurri",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 21,
+      "end": 21001,
+      "name": "TerminaliDoganor_DeshmoretEPonoshecit",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 21,
+      "end": 20,
+      "name": "TerminaliDoganor_TahirZajmi_Lakrishte",
+      "time": 60,
+      "exit_roads": [
+        "TahirZajmi_Lakrishte_BillClinton"
+      ]
+    },
+    {
+      "start": 22,
+      "end": 22001,
+      "name": "TreguIMadh_KlanKosova",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 23,
+      "end": 23001,
+      "name": "ElezBerisha_Interex",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 24,
+      "end": 24001,
+      "name": "RrugaEUglarit_KompleksiLinda3",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 25,
+      "end": 25001,
+      "name": "HajrullahZymi_Dardania",
+      "time": 30,
+      "exit_roads": []
+    },
+    {
+      "start": 25,
+      "end": 25002,
+      "name": "HajrullahZymi_RrethiRrugaEPejes",
+      "time": 30,
+      "exit_roads": []
+    }
+  ],
+  "cars": [
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_EnverMaloku",
+        "Qerimi_EnverMaloku"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_EnverMaloku",
+        "Qerimi_EnverMaloku"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_EnverMaloku",
+        "Qerimi_EnverMaloku"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_EnverMaloku",
+        "Qerimi_EnverMaloku"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_EnverMaloku",
+        "Qerimi_EnverMaloku"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_Teknik"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_Teknik"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_Teknik"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_Teknik"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_Teknik"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_HajrullahAbdullahu",
+        "Qerimi_HajrullahAbdullahu"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_HajrullahAbdullahu",
+        "Qerimi_HajrullahAbdullahu"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_HajrullahAbdullahu",
+        "Qerimi_HajrullahAbdullahu"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_HajrullahAbdullahu",
+        "Qerimi_HajrullahAbdullahu"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Qerimi",
+        "Menza_Qerimi_HajrullahAbdullahu",
+        "Qerimi_HajrullahAbdullahu"
+      ]
+    },
+    {
+      "path_length": 3,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_RobertDoll",
+        "Santea_RobertDoll"
+      ]
+    },
+    {
+      "path_length": 3,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_RobertDoll",
+        "Santea_RobertDoll"
+      ]
+    },
+    {
+      "path_length": 3,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_RobertDoll",
+        "Santea_RobertDoll"
+      ]
+    },
+    {
+      "path_length": 3,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_RobertDoll",
+        "Santea_RobertDoll"
+      ]
+    },
+    {
+      "path_length": 3,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_RobertDoll",
+        "Santea_RobertDoll"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_MAShTI",
+        "Menza_MAShTI_Parlamenti"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_MAShTI",
+        "Menza_MAShTI_Parlamenti"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_MAShTI",
+        "Menza_MAShTI_Parlamenti"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_MAShTI",
+        "Menza_MAShTI_Parlamenti"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_MAShTI",
+        "Menza_MAShTI_Parlamenti"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_MAShTI",
+        "Menza_MAShTI_Parlamenti",
+        "MAShTI_Parlamenti_XhamiaLlapitTregu"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_MAShTI",
+        "Menza_MAShTI_Parlamenti",
+        "MAShTI_Parlamenti_XhamiaLlapitTregu"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_MAShTI",
+        "Menza_MAShTI_Parlamenti",
+        "MAShTI_Parlamenti_XhamiaLlapitTregu"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_MAShTI",
+        "Menza_MAShTI_Parlamenti",
+        "MAShTI_Parlamenti_XhamiaLlapitTregu"
+      ]
+    },
+    {
+      "path_length": 6,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_MAShTI",
+        "Menza_MAShTI_Parlamenti",
+        "MAShTI_Parlamenti_XhamiaLlapitTregu"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Teknik",
+        "Menza_Teknik_RrugaB"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Teknik",
+        "Menza_Teknik_RrugaB"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Teknik",
+        "Menza_Teknik_RrugaB"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Teknik",
+        "Menza_Teknik_RrugaB"
+      ]
+    },
+    {
+      "path_length": 5,
+      "path": [
+        "Lakrishte_BillClinton_Santea",
+        "BillClinton_Santea_Katedralja",
+        "Santea_Katedralja_Menza",
+        "Katedralja_Menza_Teknik",
+        "Menza_Teknik_RrugaB"
+      ]
+    }
+  ],
+  "constraints": [
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Lakrishte",
+      "streets": [
+        "TahirZajmi_Lakrishte_BillClinton",
+        "BillClinton_Lakrishte_TahirZajmi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "BillClinton",
+      "streets": [
+        "Lakrishte_BillClinton_Santea",
+        "Lakrishte_BillClinton_Tuneli",
+        "Santea_BillClinton_Lakrishte",
+        "Santea_BillClinton_ShtjefenGjeqovi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "BillClinton",
+      "streets": [
+        "Lakrishte_BillClinton_Lakrishte",
+        "Lakrishte_BillClinton_ShtjefenGjeqovi",
+        "Santea_BillClinton_Santea",
+        "Santea_BillClinton_Tuneli",
+        "Tuneli_BillClinton_Santea",
+        "ShtjefenGjeqovi_BillClinton_Lakrishte"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "BillClinton",
+      "streets": [
+        "Tuneli_BillClinton_ShtjefenGjeqovi",
+        "Tuneli_BillClinton_Lakrishte",
+        "Tuneli_BillClinton_Santea",
+        "ShtjefenGjeqovi_BillClinton_Tuneli",
+        "ShtjefenGjeqovi_BillClinton_Santea",
+        "ShtjefenGjeqovi_BillClinton_Lakrishte",
+        "Lakrishte_BillClinton_Tuneli"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "BillClinton",
+      "streets": [
+        "Lakrishte_BillClinton_Santea",
+        "Lakrishte_BillClinton_ShtjefenGjeqovi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Santea",
+      "streets": [
+        "BillClinton_Santea_Katedralja",
+        "Katedralja_Santea_BillClinton",
+        "Katedralja_Santea_RobertDoll"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Santea",
+      "streets": [
+        "BillClinton_Santea_RobertDoll",
+        "BillClinton_Santea_BillClinton",
+        "RobertDoll_Santea_Katedralja"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Santea",
+      "streets": [
+        "Katedralja_Santea_RobertDoll",
+        "RobertDoll_Santea_BillClinton",
+        "RobertDoll_Santea_Katedralja"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "Santea",
+      "streets": [
+        "BillClinton_Santea_Katedralja",
+        "BillClinton_Santea_RobertDoll"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Katedralja",
+      "streets": [
+        "Santea_Katedralja_Menza",
+        "Menza_Katedralja_Santea",
+        "Santea_Katedralja_PTK",
+        "PTK_Katedralja_Menza"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Katedralja",
+      "streets": [
+        "Santea_Katedralja_Santea",
+        "Menza_Katedralja_PTK",
+        "Menza_Katedralja_Menza",
+        "Santea_Katedralja_PTK",
+        "PTK_Katedralja_Menza"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Katedralja",
+      "streets": [
+        "PTK_Katedralja_PTK",
+        "PTK_Katedralja_Santea",
+        "PTK_Katedralja_Menza",
+        "Santea_Katedralja_PTK"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "Katedralja",
+      "streets": [
+        "Menza_Katedralja_Santea",
+        "Menza_Katedralja_PTK"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "PTK",
+      "streets": [
+        "Katedralja_PTK_ImzotNikeprela",
+        "Katedralja_PTK_28Nentori",
+        "Katedralja_PTK_BulevardiDK",
+        "Katedralja_PTK_Katedralja"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "PTK",
+      "streets": [
+        "ImzotNikeprela_PTK_Katedralja",
+        "ImzotNikeprela_PTK_28Nentori",
+        "ImzotNikeprela_PTK_BulevardiDK"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "PTK",
+      "streets": [
+        "28Nentori_PTK_Katedralja",
+        "28Nentori_PTK_ImzotNikeprela",
+        "28Nentori_PTK_BulevardiDK"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "PTK",
+      "streets": [
+        "BulevardiDK_PTK_28Nentori",
+        "BulevardiDK_PTK_ImzotNikeprela",
+        "BulevardiDK_PTK_Katedralja",
+        "BulevardiDK_PTK_BulevardiDK",
+        "28Nentori_PTK_BulevardiDK"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "MAShTI",
+      "streets": [
+        "Menza_MAShTI_Menza",
+        "Menza_MAShTI_FakultetiEkonomik",
+        "Menza_MAShTI_Parlamenti",
+        "Menza_MAShTI_KarlGega",
+        "Parlamenti_MAShTI_Menza",
+        "Parlamenti_MAShTI_FakultetiEkonomik"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Menza",
+      "streets": [
+        "Katedralja_Menza_Katedralja",
+        "Katedralja_Menza_MAShTI",
+        "Katedralja_Menza_Qerimi",
+        "Katedralja_Menza_Teknik",
+        "MAShTI_Menza_Katedralja"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Menza",
+      "streets": [
+        "MAShTI_Menza_Teknik",
+        "MAShTI_Menza_Katedralja",
+        "Teknik_Menza_MAShTI",
+        "Teknik_Menza_Qerimi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Menza",
+      "streets": [
+        "MAShTI_Menza_MAShTI",
+        "MAShTI_Menza_Qerimi",
+        "Teknik_Menza_Teknik",
+        "Teknik_Menza_Katedralja",
+        "Qerimi_Menza_MAShTI"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Menza",
+      "streets": [
+        "Qerimi_Menza_Qerimi",
+        "Qerimi_Menza_MAShTI",
+        "Qerimi_Menza_Katedralja",
+        "Qerimi_Menza_Teknik",
+        "Teknik_Menza_Qerimi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "MAShTI",
+      "streets": [
+        "Parlamenti_MAShTI_Parlamenti",
+        "Parlamenti_MAShTI_KarlGega",
+        "Parlamenti_MAShTI_Menza",
+        "Parlamenti_MAShTI_FakultetiEkonomik",
+        "KarlGega_MAShTI_Parlamenti"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "MAShTI",
+      "streets": [
+        "FakultetiEkonomik_MAShTI_Parlamenti",
+        "FakultetiEkonomik_MAShTI_KarlGega",
+        "FakultetiEkonomik_MAShTI_Menza",
+        "KarlGega_MAShTI_Menza",
+        "KarlGega_MAShTI_FakultetiEkonomik",
+        "KarlGega_MAShTI_Parlamenti"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "MAShTI",
+      "streets": [
+        "Menza_MAShTI_Parlamenti",
+        "Parlamenti_MAShTI_KarlGega"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Parlamenti",
+      "streets": [
+        "MAShTI_Parlamenti_XhamiaLlapitTregu",
+        "MAShTI_Parlamenti_IbrahimLutfiu",
+        "XhamiaLlapitTregu_Parlamenti_MAShTI"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Parlamenti",
+      "streets": [
+        "XhamiaLlapitTregu_Parlamenti_IbrahimLutfiu",
+        "XhamiaLlapitTregu_Parlamenti_MAShTI",
+        "IbrahimLutfiu_Parlamenti_XhamiaLlapitTregu"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Parlamenti",
+      "streets": [
+        "IbrahimLutfiu_Parlamenti_MAShTI",
+        "IbrahimLutfiu_Parlamenti_XhamiaLlapitTregu"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "Parlamenti",
+      "streets": [
+        "MAShTI_Parlamenti_XhamiaLlapitTregu",
+        "XhamiaLlapitTregu_Parlamenti_IbrahimLutfiu"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "XhamiaLlapitTregu",
+      "streets": [
+        "Parlamenti_XhamiaLlapitTregu_XhamiaLlapit",
+        "Parlamenti_XhamiaLlapitTregu_MetoBajraktari",
+        "Parlamenti_XhamiaLlapitTregu_LidhjaPrizrenit",
+        "XhamiaLlapit_XhamiaLlapitTregu_LidhjaPrizrenit",
+        "XhamiaLlapit_XhamiaLlapitTregu_Parlamenti",
+        "XhamiaLlapit_XhamiaLlapitTregu_MetoBajraktari"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "XhamiaLlapitTregu",
+      "streets": [
+        "MetoBajraktari_XhamiaLlapitTregu_XhamiaLlapit",
+        "MetoBajraktari_XhamiaLlapitTregu_LidhjaPrizrenit",
+        "MetoBajraktari_XhamiaLlapitTregu_Parlamenti",
+        "LidhjaPrizrenit_XhamiaLlapitTregu_Parlamenti",
+        "LidhjaPrizrenit_XhamiaLlapitTregu_MetoBajraktari",
+        "LidhjaPrizrenit_XhamiaLlapitTregu_XhamiaLlapit"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "XhamiaLlapit",
+      "streets": [
+        "XhamiaLlapitTregu_XhamiaLlapit_LidhjaLezhes",
+        "XhamiaLlapitTregu_XhamiaLlapit_VellezeritFazliu",
+        "XhamiaLlapitTregu_XhamiaLlapit_Tjegullorja",
+        "XhamiaLlapitTregu_XhamiaLlapit_Makovc",
+        "VellezeritFazliu_XhamiaLlapit_Tjegullorja",
+        "VellezeritFazliu_XhamiaLlapit_LidhjaLezhes",
+        "VellezeritFazliu_XhamiaLlapit_XhamiaLlapitTregu",
+        "VellezeritFazliu_XhamiaLlapit_Makovc"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "XhamiaLlapit",
+      "streets": [
+        "LidhjaLezhes_XhamiaLlapit_Tjegullorja",
+        "LidhjaLezhes_XhamiaLlapit_VellezeritFazliu",
+        "LidhjaLezhes_XhamiaLlapit_Makovc",
+        "LidhjaLezhes_XhamiaLlapit_XhamiaLlapitTregu",
+        "Makovc_XhamiaLlapit_XhamiaLlapitTregu",
+        "Makovc_XhamiaLlapit_LidhjaLezhes",
+        "Makovc_XhamiaLlapit_Tjegullorja",
+        "Makovc_XhamiaLlapit_VellezeritFazliu",
+        "Tjegullorja_XhamiaLlapit_VellezeritFazliu",
+        "Tjegullorja_XhamiaLlapit_Makovc",
+        "Tjegullorja_XhamiaLlapit_XhamiaLlapitTregu",
+        "Tjegullorja_XhamiaLlapit_LidhjaLezhes"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Tjegullorja",
+      "streets": [
+        "XhamiaLlapit_Tjegullorja_Vushtrria",
+        "XhamiaLlapit_Tjegullorja_Zagrebi",
+        "XhamiaLlapit_Tjegullorja_Plava",
+        "Zagrebi_Tjegullorja_Plava",
+        "Zagrebi_Tjegullorja_XhamiaLlapit",
+        "Zagrebi_Tjegullorja_Vushtrria"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Tjegullorja",
+      "streets": [
+        "Vushtrria_Tjegullorja_Zagrebi",
+        "Vushtrria_Tjegullorja_Plava",
+        "Vushtrria_Tjegullorja_XhamiaLlapit",
+        "Plava_Tjegullorja_XhamiaLlapit",
+        "Plava_Tjegullorja_Vushtrria",
+        "Plava_Tjegullorja_Zagrebi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Lulishtja",
+      "streets": [
+        "Tirana_Lulishtja_KolegjiRiinvest",
+        "Tirana_Lulishtja_UCK",
+        "Tirana_Lulishtja_FehmiAgani"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Lulishtja",
+      "streets": [
+        "Tirana_Lulishtja_UCK",
+        "Tirana_Lulishtja_FehmiAgani",
+        "UCK_Lulishtja_FehmiAgani",
+        "UCK_Lulishtja_Tirana",
+        "UCK_Lulishtja_KolegjiRiinvest"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Lulishtja",
+      "streets": [
+        "KolegjiRiinvest_Lulishtja_UCK",
+        "KolegjiRiinvest_Lulishtja_FehmiAgani",
+        "KolegjiRiinvest_Lulishtja_Tirana"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Lulishtja",
+      "streets": [
+        "FehmiAgani_Lulishtja_Tirana",
+        "FehmiAgani_Lulishtja_KolegjiRiinvest",
+        "FehmiAgani_Lulishtja_UCK"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "Lulishtja",
+      "streets": [
+        "Tirana_Lulishtja_KolegjiRiinvest",
+        "UCK_Lulishtja_Tirana"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "BQK",
+      "streets": [
+        "UkshinHoti_BQK_UkshinHoti",
+        "UkshinHoti_BQK_Garibaldi",
+        "UkshinHoti_BQK_LuanHaradinaj",
+        "LuanHaradinaj_BQK_Grandi",
+        "LuanHaradinaj_BQK_UkshinHoti",
+        "LuanHaradinaj_BQK_Garibaldi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "BQK",
+      "streets": [
+        "Garibaldi_BQK_Garibaldi",
+        "Garibaldi_BQK_LuanHaradinaj",
+        "Garibaldi_BQK_Grandi",
+        "Garibaldi_BQK_UkshinHoti"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "BQK",
+      "streets": [
+        "Grandi_BQK_Grandi",
+        "Grandi_BQK_UkshinHoti",
+        "Grandi_BQK_Garibaldi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "KomunaRe",
+      "streets": [
+        "AhmetKrasniqi_KomunaRe_FeridCurri",
+        "AhmetKrasniqi_KomunaRe_HotelAdria",
+        "AhmetKrasniqi_KomunaRe_Cacttus",
+        "HotelAdria_KomunaRe_Cacttus",
+        "HotelAdria_KomunaRe_AhmetKrasniqi",
+        "HotelAdria_KomunaRe_FeridCurri"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "KomunaRe",
+      "streets": [
+        "Cacttus_KomunaRe_AhmetKrasniqi",
+        "Cacttus_KomunaRe_FeridCurri",
+        "Cacttus_KomunaRe_HotelAdria",
+        "FeridCurri_KomunaRe_HotelAdria",
+        "FeridCurri_KomunaRe_Cacttus",
+        "FeridCurri_KomunaRe_AhmetKrasniqi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Vranjefc",
+      "streets": [
+        "IsmetKrasniqi_Vranjefc_AzizZhilivoda",
+        "IsmetKrasniqi_Vranjefc_Bardhosh",
+        "Bardhosh_Vranjefc_IsmetKrasniqi",
+        "Bardhosh_Vranjefc_AzizZhilivoda"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Vranjefc",
+      "streets": [
+        "AzizZhilivoda_Vranjefc_Bardhosh",
+        "AzizZhilivoda_Vranjefc_IsmetKrasniqi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Qerimi",
+      "streets": [
+        "Teknik_Qerimi_Teknik",
+        "Teknik_Qerimi_Menza",
+        "Teknik_Qerimi_HajrullahAbdullahu",
+        "Teknik_Qerimi_EnverMaloku",
+        "Menza_Qerimi_Teknik"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Qerimi",
+      "streets": [
+        "EnverMaloku_Qerimi_EnverMaloku",
+        "EnverMaloku_Qerimi_Teknik",
+        "EnverMaloku_Qerimi_Menza",
+        "EnverMaloku_Qerimi_HajrullahAbdullahu",
+        "Menza_Qerimi_Teknik"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Qerimi",
+      "streets": [
+        "Menza_Qerimi_Menza",
+        "Menza_Qerimi_Teknik",
+        "Menza_Qerimi_EnverMaloku",
+        "Menza_Qerimi_HajrullahAbdullahu",
+        "Teknik_Qerimi_EnverMaloku"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Teknik",
+      "streets": [
+        "Qerimi_Teknik_Qerimi",
+        "Qerimi_Teknik_Menza",
+        "Qerimi_Teknik_RrugaB",
+        "Qerimi_Teknik_FehmiLladrovci",
+        "RrugaB_Teknik_Qerimi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Teknik",
+      "streets": [
+        "RrugaB_Teknik_RrugaB",
+        "RrugaB_Teknik_Menza",
+        "RrugaB_Teknik_Qerimi",
+        "RrugaB_Teknik_FehmiLladrovci",
+        "FehmiLladrovci_Teknik_RrugaB"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Teknik",
+      "streets": [
+        "Menza_Teknik_Menza",
+        "Menza_Teknik_FehmiLladrovci",
+        "Menza_Teknik_RrugaB",
+        "Menza_Teknik_Qerimi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Teknik",
+      "streets": [
+        "FehmiLladrovci_Teknik_FehmiLladrovci",
+        "FehmiLladrovci_Teknik_RrugaB",
+        "FehmiLladrovci_Teknik_Menza",
+        "FehmiLladrovci_Teknik_Qerimi",
+        "Menza_Teknik_FehmiLladrovci"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "RrugaB",
+      "streets": [
+        "Teknik_RrugaB_Teknik",
+        "Teknik_RrugaB_MaxiMarket",
+        "Teknik_RrugaB_BibajSport"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "RrugaB",
+      "streets": [
+        "MaxiMarket_RrugaB_Teknik",
+        "MaxiMarket_RrugaB_BibajSport",
+        "BibajSport_RrugaB_Teknik",
+        "BibajSport_RrugaB_MaxiMarket"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Eulexi",
+      "streets": [
+        "MuharremFejza_Eulexi_ArbenorEAstritDehari",
+        "ArbenorEAstritDehari_Eulexi_ArbenorEAstritDehari",
+        "ArbenorEAstritDehari_Eulexi_MuharremFejza",
+        "ArbenorEAstritDehari_Eulexi_ErnestKoliqi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Eulexi",
+      "streets": [
+        "MuharremFejza_Eulexi_MuharremFejza",
+        "MuharremFejza_Eulexi_ErnestKoliqi",
+        "MuharremFejza_Eulexi_ArbenorEAstritDehari"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "Eulexi",
+      "streets": [
+        "ErnestKoliqi_Eulexi_ArbenorEAstritDehari",
+        "ErnestKoliqi_Eulexi_MuharremFejza"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "Eulexi",
+      "streets": [
+        "ArbenorEAstritDehari_Eulexi_MuharremFejza",
+        "MuharremFejza_Eulexi_ErnestKoliqi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "TahirZajmi",
+      "streets": [
+        "Lakrishte_TahirZajmi_TerminaliDoganor",
+        "TerminaliDoganor_TahirZajmi_Lakrishte"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "TerminaliDoganor",
+      "streets": [
+        "TahirZajmi_TerminaliDoganor_TreguIMadh",
+        "TreguIMadh_TerminaliDoganor_TahirZajmi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "TerminaliDoganor",
+      "streets": [
+        "TahirZajmi_TerminaliDoganor_DeshmoretEPonoshecit",
+        "TahirZajmi_TerminaliDoganor_TreguIMadh",
+        "DeshmoretEPonoshecit_TerminaliDoganor_TahirZajmi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "TerminaliDoganor",
+      "streets": [
+        "DeshmoretEPonoshecit_TerminaliDoganor_TreguIMadh",
+        "DeshmoretEPonoshecit_TerminaliDoganor_TahirZajmi"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "TerminaliDoganor",
+      "streets": [
+        "TreguIMadh_TerminaliDoganor_TahirZajmi",
+        "TahirZajmi_TerminaliDoganor_DeshmoretEPonoshecit"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "TreguIMadh",
+      "streets": [
+        "TerminaliDoganor_TreguIMadh_ElezBerisha",
+        "ElezBerisha_TreguIMadh_TerminaliDoganor"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "TreguIMadh",
+      "streets": [
+        "TerminaliDoganor_TreguIMadh_KlanKosova",
+        "TerminaliDoganor_TreguIMadh_ElezBerisha",
+        "KlanKosova_TreguIMadh_TerminaliDoganor"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "TreguIMadh",
+      "streets": [
+        "KlanKosova_TreguIMadh_ElezBerisha",
+        "KlanKosova_TreguIMadh_TerminaliDoganor"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "TreguIMadh",
+      "streets": [
+        "ElezBerisha_TreguIMadh_TerminaliDoganor",
+        "TerminaliDoganor_TreguIMadh_KlanKosova"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "ElezBerisha",
+      "streets": [
+        "TreguIMadh_ElezBerisha_RrugaEUglarit",
+        "RrugaEUglarit_ElezBerisha_TreguIMadh"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "ElezBerisha",
+      "streets": [
+        "TreguIMadh_ElezBerisha_Interex",
+        "TreguIMadh_ElezBerisha_RrugaEUglarit"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "ElezBerisha",
+      "streets": [
+        "TreguIMadh_ElezBerisha_Interex",
+        "TreguIMadh_ElezBerisha_RrugaEUglarit",
+        "Interex_ElezBerisha_TreguIMadh"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "ElezBerisha",
+      "streets": [
+        "RrugaEUglarit_ElezBerisha_TreguIMadh",
+        "TreguIMadh_ElezBerisha_Interex"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "RrugaEUglarit",
+      "streets": [
+        "ElezBerisha_RrugaEUglarit_HajrullahZymi",
+        "HajrullahZymi_RrugaEUglarit_ElezBerisha"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "RrugaEUglarit",
+      "streets": [
+        "ElezBerisha_RrugaEUglarit_KompleksiLinda3",
+        "ElezBerisha_RrugaEUglarit_HajrullahZymi"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "RrugaEUglarit",
+      "streets": [
+        "KompleksiLinda3_RrugaEUglarit_HajrullahZymi",
+        "KompleksiLinda3_RrugaEUglarit_ElezBerisha"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "RrugaEUglarit",
+      "streets": [
+        "HajrullahZymi_RrugaEUglarit_ElezBerisha",
+        "ElezBerisha_RrugaEUglarit_KompleksiLinda3"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "HajrullahZymi",
+      "streets": [
+        "RrugaEUglarit_HajrullahZymi_RrethiRrugaEPejes",
+        "RrethiRrugaEPejes_HajrullahZymi_RrugaEUglarit"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "HajrullahZymi",
+      "streets": [
+        "RrugaEUglarit_HajrullahZymi_RrethiRrugaEPejes",
+        "RrethiRrugaEPejes_HajrullahZymi_Dardania"
+      ]
+    },
+    {
+      "type": "simultaneously_signal",
+      "intersection_name": "HajrullahZymi",
+      "streets": [
+        "Dardania_HajrullahZymi_RrugaEUglarit",
+        "Dardania_HajrullahZymi_RrethiRrugaEPejes"
+      ]
+    },
+    {
+      "type": "signal_phase_order",
+      "intersection_name": "HajrullahZymi",
+      "streets": [
+        "RrugaEUglarit_HajrullahZymi_RrethiRrugaEPejes",
+        "RrethiRrugaEPejes_HajrullahZymi_Dardania"
+      ]
+    }
+  ]
+}
